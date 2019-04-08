@@ -17,5 +17,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 // TODO add your tracking id here
-ga('create', 'UA-137815769-1', 'auto');
-ga('send', 'pageview');
+//ga('create', 'UA-137815769-1', 'auto');
+//ga('send', 'pageview');
